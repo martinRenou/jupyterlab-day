@@ -214,8 +214,8 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-layout-color0: #ffffff;
   --jp-layout-color1: #ffffff;
   --jp-layout-color2: #f6f8fa;
-  --jp-layout-color3: #f6f8fa;
-  --jp-layout-color4: #f6f8fa;
+  --jp-layout-color3: rgba(234,238,242,0.5);
+  --jp-layout-color4: rgba(234,238,242,0.5);
 
   /* Inverse Layout
    *
@@ -295,7 +295,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 
   --jp-notebook-padding: 10px;
   --jp-notebook-select-background: var(--jp-layout-color1);
-  --jp-notebook-multiselected-color: rgba(33, 150, 243, 0.24);
+  --jp-notebook-multiselected-color: var(--jp-layout-color3);
 
   /* The scroll padding is calculated to fill enough space at the bottom of the
   notebook to show one single-line cell (with appropriate padding) at the top
@@ -432,7 +432,7 @@ all of MD as it is not optimized for dense, information rich UIs.
 }
 
 .CodeMirror-selected {
-  background-color: #1e4273 !important;
+  background-color: var(--md-blue-100) !important;
 }
 
 .widget-slider .ui-slider .ui-slider-handle {
