@@ -10,9 +10,9 @@ See also [jupyterlab-night](https://github.com/martinRenou/jupyterlab-night).
 
 * JupyterLab >= 3.0
 
-## Install (coming soon)
+## Install
 
-<!-- To install the extension, execute:
+To install the extension, execute:
 
 ```bash
 conda install jupyterlab-day -c conda-forge
@@ -22,6 +22,6 @@ or
 
 ```bash
 pip install jupyterlab-day
-``` -->
+```
 
 ![jupyterlab-day](jupyterlab-day.png)
