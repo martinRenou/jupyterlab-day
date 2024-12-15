@@ -8,7 +8,7 @@ See also [jupyterlab-night](https://github.com/martinRenou/jupyterlab-night).
 
 ## Requirements
 
-* JupyterLab >= 3.0
+- JupyterLab >= 3.0
 
 ## Install
 
