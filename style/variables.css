@@ -117,7 +117,7 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-ui-font-size3: 1.44em;
 
   --jp-ui-font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', helvetica,
-  arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
   /*
    * Use these font colors against the corresponding main layout colors.
@@ -179,8 +179,9 @@ all of MD as it is not optimized for dense, information rich UIs.
   --jp-content-font-color3: rgba(0, 0, 0, 0.5);
   --jp-content-link-color: var(--jp-day-blue);
 
-  --jp-content-font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', helvetica,
-  arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  --jp-content-font-family: -apple-system, blinkmacsystemfont, 'Segoe UI',
+    helvetica, arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
 
   /*
    * Code Fonts
