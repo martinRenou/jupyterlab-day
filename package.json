@@ -7,9 +7,9 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "https://github.com/martinRenou/jupyterlab-day",
+    "homepage": "https://github.com/jupyterlab-contrib/jupyterlab-day",
     "bugs": {
-        "url": "https://github.com/martinRenou/jupyterlab-day/issues"
+        "url": "https://github.com/jupyterlab-contrib/jupyterlab-day/issues"
     },
     "license": "BSD-3-Clause",
     "author": {
@@ -24,7 +24,7 @@
     "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "https://github.com/martinRenou/jupyterlab-day.git"
+        "url": "https://github.com/jupyterlab-contrib/jupyterlab-day.git"
     },
     "scripts": {
         "build": "jlpm build:lib && jlpm build:labextension:dev",
