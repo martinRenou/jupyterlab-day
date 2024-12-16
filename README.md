@@ -1,6 +1,6 @@
 # jupyterlab-day
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinRenou/jupyterlab-day/main?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab-contrib/jupyterlab-day/main?urlpath=lab)
 
 JupyterLab light theme inspired by the Github light theme
 

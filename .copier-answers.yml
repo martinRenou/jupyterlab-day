@@ -9,6 +9,6 @@ kind: theme
 labextension_name: jupyterlab-day
 project_short_description: Dark theme for JupyterLab
 python_name: jupyterlab_day
-repository: https://github.com/martinRenou/jupyterlab-day.git
+repository: https://github.com/jupyterlab-contrib/jupyterlab-day.git
 test: false
 
